@@ -1,0 +1,38 @@
+.form{
+    border: 1px solid;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+
+    box-sizing: border-box;
+
+    padding-top: 10px;
+    border-radius: 30px;
+    width: 60%;
+}
+.col{
+    border:1px solid;
+    margin-top: 0px;
+    display: inline-block;
+    vertical-align: top;
+    height: 500px;
+    border-radius: 15px;
+    box-sizing: border-box;
+
+
+
+
+}
+.foto-class{
+  box-sizing: border-box;
+ 
+  background-color: #E2B7A7;
+  height:300px
+}
+
+textarea:focus{
+  outline:none
+}
+input:focus{
+    outline: none;
+}
+
